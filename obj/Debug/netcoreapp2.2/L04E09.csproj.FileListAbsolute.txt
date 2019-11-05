@@ -1,0 +1,11 @@
+/home/loulage/Documents/Praticas Programacao/L04E09/bin/Debug/netcoreapp2.2/L04E09.deps.json
+/home/loulage/Documents/Praticas Programacao/L04E09/bin/Debug/netcoreapp2.2/L04E09.runtimeconfig.json
+/home/loulage/Documents/Praticas Programacao/L04E09/bin/Debug/netcoreapp2.2/L04E09.runtimeconfig.dev.json
+/home/loulage/Documents/Praticas Programacao/L04E09/bin/Debug/netcoreapp2.2/L04E09.dll
+/home/loulage/Documents/Praticas Programacao/L04E09/bin/Debug/netcoreapp2.2/L04E09.pdb
+/home/loulage/Documents/Praticas Programacao/L04E09/obj/Debug/netcoreapp2.2/L04E09.csprojAssemblyReference.cache
+/home/loulage/Documents/Praticas Programacao/L04E09/obj/Debug/netcoreapp2.2/L04E09.csproj.CoreCompileInputs.cache
+/home/loulage/Documents/Praticas Programacao/L04E09/obj/Debug/netcoreapp2.2/L04E09.AssemblyInfoInputs.cache
+/home/loulage/Documents/Praticas Programacao/L04E09/obj/Debug/netcoreapp2.2/L04E09.AssemblyInfo.cs
+/home/loulage/Documents/Praticas Programacao/L04E09/obj/Debug/netcoreapp2.2/L04E09.dll
+/home/loulage/Documents/Praticas Programacao/L04E09/obj/Debug/netcoreapp2.2/L04E09.pdb
